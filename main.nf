@@ -1,4 +1,5 @@
 #!/usr/bin/env nextflow
+nextflow.enable.dsl = 1
 /*
 ========================================================================================
                          nf-core/deepvariant
