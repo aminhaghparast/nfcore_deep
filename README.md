@@ -1,8 +1,7 @@
 ![deepvariant](https://raw.githubusercontent.com/nf-core/deepvariant/master/docs/images/deepvariant_logo.png)
 
-# nf-core/deepvariant
 
-**Deep Variant as a Nextflow pipeline**
+
 
 [![Build Status](https://travis-ci.org/nf-core/deepvariant.svg?branch=master)](https://travis-ci.org/nf-core/deepvariant)
 [![Nextflow](https://img.shields.io/badge/nextflow-%E2%89%A518.10.1-brightgreen.svg)](https://www.nextflow.io/)
